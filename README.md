@@ -58,6 +58,7 @@ Both are completely dynamic and responsive.
 ## 🖥️ Desktop Preview
 
 ![Dashboard Preview](./Screenshott.png)
+(./Screenshottt.png)
 
 > ✔️ The dashboard automatically adapts across different screen sizes and offers consistent UX across desktops, tablets, and mobile devices.
 
